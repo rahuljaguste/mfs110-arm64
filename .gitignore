@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Patch-script backups (created by build-patches/*.py)
+*.bak
+*.orig
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Build output, if anyone builds in-tree
+Build-Objects/
+
+# Keys and certificates: never commit these
+*.pem
+*.pfx
+*.cer
+*.pvk
+*.key
+
+# Local scratch
+*.log
+scratch/
