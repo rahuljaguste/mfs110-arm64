@@ -8,6 +8,7 @@ This repository contains original work plus a third-party binary.
 | Component | License | Our work? |
 |---|---|---|
 | `Setup-MFS110.bat` - installer | MIT | yes |
+| `Test-MFS110.bat` - capture check | MIT | yes |
 | `cyusb3.sys` `.inf` `.cat` | **Cypress/Infineon EULA** | **no** - see below |
 | Cypress EZ-USB FX3 SDK | Cypress/Infineon EULA | **no** |
 | Mantra MFS110 RD Service | Mantra's terms | **no** |
